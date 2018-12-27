@@ -106,7 +106,7 @@ ni li lon. kulupu nimi ni li musi li pona kin. jan ali li ken sona e kulupu nimi
 mi wile kin sona e ijo ante : jan li ken ante e nimi pi wan mute pi tenpo suno lon nasin seme : 
 mateno / morning / matin / Morgen  (tenpo ni : suno li sewi)
 tagmezo / noon / midi / Mittag (tenpo ni : suno li lon sewi)
-posttagmezo / afternoon / aprËs-midi / Nachmittag (tenpo ni : suno li anpa)
+posttagmezo / afternoon / apr√®s-midi / Nachmittag (tenpo ni : suno li anpa)
 vespero / evening / soir / Abend (tenpo ni : pimeja li kama) 
 jan seme li sona e nasin pona ?
 *kanso 110705 
@@ -297,11 +297,11 @@ Kolisu la, ona li wile pana e ijo tawa jan pona ona.
 
  1433
 jan Jim, o toki ! 
-luka 'pi' nanpa wan : nasin ni li pona. taso jan Lokan (Laurent Vogel) li sitelen e ijo ante lon lipu ona pi kama sona (N∞ 15) : sina ken weka e nimi 'pi' lon sinpin pi nimi 'nanpa'. ona li pana kin e toki lili ni : 
+luka 'pi' nanpa wan : nasin ni li pona. taso jan Lokan (Laurent Vogel) li sitelen e ijo ante lon lipu ona pi kama sona (N¬∞ 15) : sina ken weka e nimi 'pi' lon sinpin pi nimi 'nanpa'. ona li pana kin e toki lili ni : 
 'meli nanpa wan li nasa'
  ken la nasin tu ni li pona ala pona ? 
 jan Kanso 
-PS : mi lukin kin e lipu pi jan Claude Piron : 'Le dÈfi des langues'. lipu ni li pana e sona pona lon toki mute pi jan mute pi ma mute. jan ali o lukin e lipu ni !
+PS : mi lukin kin e lipu pi jan Claude Piron : 'Le d√©fi des langues'. lipu ni li pana e sona pona lon toki mute pi jan mute pi ma mute. jan ali o lukin e lipu ni !
 *kanso 120805 
 
 1434
@@ -367,7 +367,7 @@ taso mi pilin e ni: jan ken ala lukin e nasin pi wile nasa ala.
 jan pona ale, toki !
 mi jan sin lon kulupu ni. mi toki e ijo nasa la, o weka e ike !
 tenpo pini lili la, mi pilin e ni : jan mute mute pi ma ale li musi kepeken
-'dÈs/dice (kiwen lili musi, lon TK ?) en 'cartes/cards'.
+'d√©s/dice (kiwen lili musi, lon TK ?) en 'cartes/cards'.
 nimi 'cards' li seme kepeken TK ? ken la : lipu musi, anu lipu pi mani musi
 (poker) anu lipu pi nasa musi (tricks/tours de cartes) ? kin la, 'play
 cards/jouer aux cartes' li pona li suli tawa mi.
@@ -376,7 +376,7 @@ tenpo pi nanpa wan la, mi mute o nimi e kulupu tu tu ! li tawa pilin lili mi :
 piques/spades : kulupu utala
 coeurs/hearts : kulupu olin
 carreaux/diamonds : kulupu mani
-trËfles/clubs : kulupu kasi (?)
+tr√®fles/clubs : kulupu kasi (?)
 kama la, mi mute o nimi e lipu alli :
 roi/king : lipu pi jan lawa
 dame/queen : lipu pi jan meli
@@ -401,7 +401,7 @@ o awen pona
 1443
 > carreaux/diamonds : kulupu mani
 anu: kulupu kiwen
-> trËfles/clubs : kulupu kasi (?)
+> tr√®fles/clubs : kulupu kasi (?)
 pona.
 > dame/queen : lipu pi jan meli
 anu '...jan lawa meli'
@@ -419,7 +419,7 @@ nimi sina pi lipu musi li pona.
 1444
 jan Jim o, toki !
 mi pilin pona tan ni : sina lukin e sitelen mi.
-'kulupu kiwen' li pona tawa mi. (trËfles/clubs)
+'kulupu kiwen' li pona tawa mi. (tr√®fles/clubs)
 kin la, nasin ni pi nimi e ijo pi lipu musi li sama pona ala pona tawa sina ?
 ken la, mi mute ken pali e lipu musi, kepeken TK a.
 o awen pona
@@ -427,7 +427,7 @@ o awen pona
 
 1445
 a. mi pakala. mi wile toki e ni: 'carreaux/diamonds'
-li nimi 'kulupu kiwen'. 'trËfles/clubs' li nimi
+li nimi 'kulupu kiwen'. 'tr√®fles/clubs' li nimi
 'kulupu kasi' la, ni li pona.
 ni li pona mute.
 mi wile e ni: jan pi toki-pona li kama kulupu li
@@ -444,7 +444,7 @@ sina pilin e seme tawa ni : i try/ j'essaie : mi wile pali
 i try to learn TK : mi wile pali kama sone e TK. ni li pona ala
 pona ?
 o pana e pona tawa mi
-kama kulupu ? : rejoindre, se rÈunir ?
+kama kulupu ? : rejoindre, se r√©unir ?
 wile nasa ? : .............
 tenpo mute pini la, mi open kama sona e toki Epelanto. ni li pona
 tawa mi.
@@ -605,11 +605,11 @@ ni li lipu nimi pi kalama musi 'tenpo ni'.
 jan Male li pana e lipu nimi ni lon toki-pona.
 tenpo pini la kalama musi ni li jo e nimi lon toki Epelanto li jo e nimi suli 'Felice'.
 jan ni li pali e nimi ona lon toki Epelanto:
-ï jan Maria Amanta SMILET (li pali e wan pi nanpa wan en wan suli)
-ï jan Bertilo WENNERGREN (li pali e wan pi nanpa tu)
-ï jan Anja KARKIAINEN (li pali e wan pi nanpa tu wan)
-ï jan Gunnar R. FISCHER (li pali e wan pi nanpa tu tu)
-jan Amir HADéIAHMETOVIC li jan pi kulupu pi kalama musi Esperanto Desperado li pali e kalama tawa nimi ni.
+‚Ä¢ jan Maria Amanta SMILET (li pali e wan pi nanpa wan en wan suli)
+‚Ä¢ jan Bertilo WENNERGREN (li pali e wan pi nanpa tu)
+‚Ä¢ jan Anja KARKIAINEN (li pali e wan pi nanpa tu wan)
+‚Ä¢ jan Gunnar R. FISCHER (li pali e wan pi nanpa tu tu)
+jan Amir HAD≈ΩIAHMETOVIC li jan pi kulupu pi kalama musi Esperanto Desperado li pali e kalama tawa nimi ni.
 toki-pona 	toki Epelanto
 meli lon sewi pi soweli walo
 li kama ala tawa mi.
@@ -973,7 +973,7 @@ o pilin pona!
 toki logli li pona tawa mi. sina sitelen ala sitelen
 mute kepeken toki logili?
 mi sitelen mute e toki mi pi tenpo suno [diary/taglibro]
-kepeken toki kasunpun (gj‚-zym-byn). taso
+kepeken toki kasunpun (gj√¢-zym-byn). taso
 jan ala li kepeken ala e ona. ni li pona tawa mi.
 taso mi pilin e ni: jan ante li wile kama sona
 e toki kasunpun la, ni kin li pona tawa mi.
@@ -1062,7 +1062,7 @@ o awen pona !
 *janluka 
 
 1492
-toki Kasunpun li toki sin 'gj‚-zym-byn'. o lukin e ni:
+toki Kasunpun li toki sin 'gj√¢-zym-byn'. o lukin e ni:
 http://www.pobox.com/~jimhenry/gzb/gzb.htm
 *jimhenry 
 
@@ -1268,15 +1268,15 @@ ijo Sulosaso li suli ike. mi mute li tawa tan ma tomo Mapikasisulijala la, mi we
 
 *12) Alaretiki Mi lui-lo 'that I want'
 
-*13) Ziotaki Lisa ky? paliöana! 'let the merchandise be shown to them'
+*13) Ziotaki Lisa ky? pali≈°ana! 'let the merchandise be shown to them'
 
 *14) Ziotaki Mizelo, tozu suli? 'Mizelo, how much?'
 
 *15 Ziotaki fuahi, tipeliaha 'less than 216, 12 less'
 
-*16 Ziotaki suroöaûo 'plow'
+*16 Ziotaki suro≈°a≈æo 'plow'
 
-*17 Ziotaki Suroöaûopa ?uniyasi paliöana 'let the way to use a plow be shown'
+*17 Ziotaki Suro≈°a≈æopa ?uniyasi pali≈°ana 'let the way to use a plow be shown'
 
 *18 Alaretiki-toki-pona Keke lupa gari tekikuti mevu gati 'in hole seed drop-if, plant grow'
 
@@ -1286,7 +1286,7 @@ ijo Sulosaso li suli ike. mi mute li tawa tan ma tomo Mapikasisulijala la, mi we
 
 *21 Alaretiki-toki-pona Miku ya miku? 'do you know?'
 
-*22 Ziotaki-Alaretiki Suroöaûo kaixan. Ala. 'Take plow. Trade.'
+*22 Ziotaki-Alaretiki Suro≈°a≈æo kaixan. Ala. 'Take plow. Trade.'
 
 *23 Alaretiki Alan 'trade!'
 
@@ -1788,19 +1788,19 @@ sona e ni: ona li ike. toki mute mute li lon kulupu ni. tan ni la jan li
 ken ala kama jo e nimi lili mute. nimi lili ni li pona tawa toki-pona, 
 taso li nimi pi toki ante lon tenpo ni:
 'tkp' li nimi lili pi toki 'Tikopia'
-'tpn' li nimi lili pi toki 'Tupinamb·'
+'tpn' li nimi lili pi toki 'Tupinamb√°'
 'tkn' li nimi lili pi toki 'Toku-No-Shima'
 ni li ike lili. taso ni li ike mute:
 T-o-K-i P-o-N-a:
 'tok' li nimi lili pi toki ala
 'toi' li nimi lili pi toki 'Tonga (Zambia)'
 'top' li nimi lili pi toki 'Papantla Totonac'
-'too' li nimi lili pi toki 'Xicotepec De Ju·rez Totonac'
+'too' li nimi lili pi toki 'Xicotepec De Ju√°rez Totonac'
 'ton' li nimi lili pi toki 'Tonga (Tonga Islands)'
 'toa' li nimi lili pi toki ala
 'tki' li nimi lili pi toki ala
 'tko' li nimi lili pi toki ala
-'tka' li nimi lili pi toki 'Truk·'
+'tka' li nimi lili pi toki 'Truk√°'
 'tip' li nimi lili pi toki 'Trimuris'
 'tio' li nimi lili pi toki 'Teop'
 'tin' li nimi lili pi toki 'Tindi'

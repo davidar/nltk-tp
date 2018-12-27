@@ -52,11 +52,11 @@ toki e ijo la, sina sona ala e ijo ante ("context") la, nimi li toki e
 ona tawa sina.
 toki Latan li sama ala toki-pona. nimi li mute. nimi lili li mute li
 toki mute.
-"BÌida shÛod le wa." = "mi toki musi e ni tawa sina: mi pali mute (li
+"B√≠ida sh√≥od le wa." = "mi toki musi e ni tawa sina: mi pali mute (li
 sona e ni tan ni: mi lukin)."
-"BÌi" = "mi toki e ni:"
+"B√≠i" = "mi toki e ni:"
 "-da" = "mi toki e ni sama toki musi"
-"shÛod" = "pali mute"
+"sh√≥od" = "pali mute"
 "le" = "mi"
 "wa" = "mi sona e ni tan ni: mi lukin e ni.
 lon toki Inli anu toki-pona la, jan li wile kute e nasin toki. ni li
@@ -106,7 +106,7 @@ toki "Esperanto"
 
 toki Kasunpun
 anu
-toki "gj‚-zym-byn"
+toki "gj√¢-zym-byn"
 
 toki Tanka
 anu

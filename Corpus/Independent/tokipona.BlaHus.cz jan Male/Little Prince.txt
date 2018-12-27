@@ -3,7 +3,7 @@ lipu toki 'jan lawa lili' (Le Petit prince).
 ni li lipu toki 'jan lawa lili' (Le Petit prince).
 jan Male li pana e lipu toki ni lon toki-pona.
 tenpo pini la kalama musi ni li jo e nimi lon toki Kanse li jo e nimi suli 'Le Petit prince'.
-jan Antowan Te Sentesipeli "(Antoine de Saint-Exupéry)" tan ma Kanse pali e lipu toki ni lon toki Kanse.
+jan Antowan Te Sentesipeli "(Antoine de Saint-ExupÃ©ry)" tan ma Kanse pali e lipu toki ni lon toki Kanse.
 jan li ken lukin e lipu toki ni lon toki Kanse en toki Epelanto en toki Seki en toki ante.
 
 lipu toki 'jan lawa lili' li jo e lipu mute. tenpo ni la jan li ken lukin e lipu ni:
@@ -12,7 +12,7 @@ tenpo kama la lipu ante kin li kama.
 
 jan lawa lili.
 
-nimi lon toki Kanse tan jan "Antoine de Saint Exupéry" tan tenpo sike 1943.
+nimi lon toki Kanse tan jan "Antoine de Saint ExupÃ©ry" tan tenpo sike 1943.
 nimi lon toki-pona tan jan Male tan tenpo sike 2007.
 ///(tokipona@blahus.cz)
 

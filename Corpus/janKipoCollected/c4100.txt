@@ -1,8 +1,8 @@
 4102
 toki,
 nimi mute ni li pona tawa mi!
-kulupu sinpin – head phrase
-kulupu monsi – predicate
+kulupu sinpin â€“ head phrase
+kulupu monsi â€“ predicate
 mi tu li jo ala e "Context" la nimi li sona e ijo mute. taso mi tu li
 jo e "Context" la nimi li sona e ijo wan.
 mi tu li toki e lawa pi jan lawa la "nimi lawa" li sona e "Legal
@@ -96,9 +96,9 @@ mi nasa li tawa tomo pali. :)
 
 4138
 mi tawa tomo lipu li lukin e lipu ni. ona li nimi "lipu toki"
-("Språktidningen" lon toki Wensa). ona li jo e sitelen mute. sitelen
+("SprÃ¥ktidningen" lon toki Wensa). ona li jo e sitelen mute. sitelen
 wan li toki tan toki pali li nimi "toki pi sona ala pi jan akesi"
-("Orchernas hemliga språk"). mi toki-pona e wan lili pi sitelen ni:
+("Orchernas hemliga sprÃ¥k"). mi toki-pona e wan lili pi sitelen ni:
 "toki pi sona ala pi jan akesi
 tan Mats Karlsson
 tenpo pini la jan li wile wan e ma ali li pali e toki sin. tenpo ni la
@@ -211,7 +211,7 @@ sina sitelen pi nimi Metapo li pona mute tawa mi. tenpo pini la mi pilin e ni:
 ijo li lon toki.
 taso tenpo ni la mi sona ante. jan li pali kepeken e toki. jan li sona kepeken
 e toki. ni li pona.
-mi pali e kiwen musi – mi jan pali Sculptor. mi pali kepeken e oko e luka. mi
+mi pali e kiwen musi â€“ mi jan pali Sculptor. mi pali kepeken e oko e luka. mi
 jo e sona
 lukin. mi ijo e ale. taso toki li ante. jan ken lukin e sitelen. (mi pilin pona
 e ni: sitelen kule

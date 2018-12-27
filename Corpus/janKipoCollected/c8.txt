@@ -266,7 +266,7 @@ Descartes wanted to fix this, so he threw away the external world (outside earth
 sitelen lon toki-pona tan mi
 (My translations into toki-pona)
     * sona wile tan jan Eloto (Herodotus: The Histories)
-    * jan lawa pi jan Eta tan jan Kote (Goethe: Erlkönig)
+    * jan lawa pi jan Eta tan jan Kote (Goethe: ErlkÃ¶nig)
     * sama li sama tan jan Kote (Goethe: Gleich und Gleich)
     * sitelen mute anta li kama (More to follow) 
 *damian lord 082494 = temon
@@ -279,18 +279,18 @@ ale ken sona e ken pali jan tan ni: jan Eloto lon ma tomo Alikanaso li wile e ni
 *temon 082494
 
 toki-pona 	toki Tosi/Deutsch 	toki Inli/English
-tenpo pimeja la jan seme li tawa? 	Wer reitet so spät durch Nacht und Wind? 	Who rides so late through the grisly night?
+tenpo pimeja la jan seme li tawa? 	Wer reitet so spÃ¤t durch Nacht und Wind? 	Who rides so late through the grisly night?
 mama mije en mije lili li tawa. 	Es ist der Vater mit seinem Kind. 	'Tis a father and child, and he grasps him tight;
 mije lili ona li poka, li poka. 	Er hat den Knaben wohl in dem Arm, 	He wraps him close in his mantle's fold,
-mama li jo e mije lili, li seli poka. 	Er faßt ihn sicher, er hält ihn warm. 	And shelters the boy from the piercing cold.
+mama li jo e mije lili, li seli poka. 	Er faÃŸt ihn sicher, er hÃ¤lt ihn warm. 	And shelters the boy from the piercing cold.
 -
 	
 -
 	
 -
 mije lili mi, sina wile ala lukin tan seme? 	Mein Sohn, was birgst du so bang dein Gesicht? 	My son, why thus to my arm dost cling?
-mama mi, sina lukin ala lukin e jan lawa ike? 	Siehst Vater, du den Erlkönig nicht! 	Father, dost thou not see the Erlie-king?
-jan Eta li jo e len lawa e len suli. 	Den Erlenkönig mit Kron' und Schweif? 	The king with his crown and his long black train!
+mama mi, sina lukin ala lukin e jan lawa ike? 	Siehst Vater, du den ErlkÃ¶nig nicht! 	Father, dost thou not see the Erlie-king?
+jan Eta li jo e len lawa e len suli. 	Den ErlenkÃ¶nig mit Kron' und Schweif? 	The king with his crown and his long black train!
 kon telo li lon, mije lili mi. 	Mein Sohn, es ist ein Nebelstreif. 	My son, 'tis a streak of the misty rain!
 -
 	
@@ -298,26 +298,26 @@ kon telo li lon, mije lili mi. 	Mein Sohn, es ist ein Nebelstreif. 	My son, 'tis
 	
 -
 "sina lili suwi, o tawa poka mi! 	Du liebes Kind, komm geh' mit mir! 	Come hither, thou darling! come, go with me!
-sina musi pona kepeken mi. 	Gar schöne Spiele, spiel ich mit dir, 	Fine games know I that I'll play with thee;
+sina musi pona kepeken mi. 	Gar schÃ¶ne Spiele, spiel ich mit dir, 	Fine games know I that I'll play with thee;
 kasi kule mute li poka telo. 	Manch bunte Blumen sind an dem Strand, 	Flowers many and bright do my kingdoms hold,
-mama meli mi li jo en len jelo." 	Meine Mutter hat manch gülden Gewand. 	My mother has many a robe of gold.
+mama meli mi li jo en len jelo." 	Meine Mutter hat manch gÃ¼lden Gewand. 	My mother has many a robe of gold.
 -
 	
 -
 	
 -
-mama mi, sina kute anu seme e ni? 	Mein Vater, mein Vater, und hörest du nicht, 	Oh father, dear father! and dost thou not hear
-jan lawa pi jan Eta li toki tawa mi. 	Was Erlenkönig mir leise verspricht? 	What the Erlie-king whispers so low in mine ear?
+mama mi, sina kute anu seme e ni? 	Mein Vater, mein Vater, und hÃ¶rest du nicht, 	Oh father, dear father! and dost thou not hear
+jan lawa pi jan Eta li toki tawa mi. 	Was ErlenkÃ¶nig mir leise verspricht? 	What the Erlie-king whispers so low in mine ear?
 ike ala, ike ala, mije lili mi. 	Sei ruhig, bleibe ruhig, mein Kind, 	Calm, calm thee, my boy, it is only the breeze,
-kon li tawa lon lipu kasi. 	In dürren Blättern säuselt der Wind. 	As it rustles the wither'd leaves under the trees!
+kon li tawa lon lipu kasi. 	In dÃ¼rren BlÃ¤ttern sÃ¤uselt der Wind. 	As it rustles the wither'd leaves under the trees!
 -
 	
 -
 	
 -
 "jan lili suwi, sina wile ala wile tawa? 	Willst feiner Knabe du mit mir geh'n? 	Wilt thou go, bonny boy! wilt thou go with me?
-meli lili mi li wile musi tawa sina. 	Meine Töchter sollen dich warten schön, 	My daughters shall wait on thee daintilie;
-tenpo pimejo la ona li musi mute. 	Meine Töchter führen den nächtlichen Reihn 	My daughters around thee in dance shall sweep,
+meli lili mi li wile musi tawa sina. 	Meine TÃ¶chter sollen dich warten schÃ¶n, 	My daughters shall wait on thee daintilie;
+tenpo pimejo la ona li musi mute. 	Meine TÃ¶chter fÃ¼hren den nÃ¤chtlichen Reihn 	My daughters around thee in dance shall sweep,
 tenpo kama lili la sina lape." 	Und wiegen und tanzen und singen dich ein. 	And rock thee, and kiss thee, and sing thee to sleep!
 -
 	
@@ -325,7 +325,7 @@ tenpo kama lili la sina lape." 	Und wiegen und tanzen und singen dich ein. 	And 
 	
 -
 mama mije mi, sina lukin ala lukin 	Mein Vater, mein Vater, und siehst du nicht dort 	O father, dear father! and dost thou not mark
-e meli lili pi jan Eta lon pimeja kin? 	Erlkönigs Töchter am düsteren Ort? 	Erlie-king's daughters move by in the dark?
+e meli lili pi jan Eta lon pimeja kin? 	ErlkÃ¶nigs TÃ¶chter am dÃ¼steren Ort? 	Erlie-king's daughters move by in the dark?
 mije lili mi, mi lukin kin pona 	Mein Sohn, mein Sohn, ich seh'es genau: 	I see it, my child; but it is not they,
 e kasi mute lon walo pimeja. 	Es scheinen die alten Weiden so grau. 	'Tis the old willow nodding its head so grey!
 -
@@ -333,18 +333,18 @@ e kasi mute lon walo pimeja. 	Es scheinen die alten Weiden so grau. 	'Tis the ol
 -
 	
 -
-"mi olin e sina. mi jo ala 	Ich lieb dich, mich reizt deine schöne Gestalt, 	I love thee! thy beauty, it charms me so;
+"mi olin e sina. mi jo ala 	Ich lieb dich, mich reizt deine schÃ¶ne Gestalt, 	I love thee! thy beauty, it charms me so;
 e sina la, mi kepeken e wawa!" 	Und bist du nicht willig, so brauch ich Gewalt! 	And I'll take thee by force, if thou wilt not go!
-mama mi, ona li jo kin e mi! 	Mein Vater, mein Vater, jetzt faßt er mich an, 	O father, dear father! he's grasping me
-ona li utala wawa e mi! 	Erlkönig hat mir ein Leids getan. 	My heart is as cold as cold can be!
+mama mi, ona li jo kin e mi! 	Mein Vater, mein Vater, jetzt faÃŸt er mich an, 	O father, dear father! he's grasping me
+ona li utala wawa e mi! 	ErlkÃ¶nig hat mir ein Leids getan. 	My heart is as cold as cold can be!
 -
 	
 -
 	
 -
 mama li pilin ike, li tawa, li tawa 	Dem Vater grauset's, er reitet geschwind, 	The father rides swiftly - with terror he gasps
-on a li jo pona e jan lili ona 	Er hält in den Armen das ächzende Kind, 	The sobbing child in his arms he clasps;
-ona li kama ike tawa pini 	Erreicht den Hof mit Mühe und Not, 	He reaches the castle with spurring and dread;
+on a li jo pona e jan lili ona 	Er hÃ¤lt in den Armen das Ã¤chzende Kind, 	The sobbing child in his arms he clasps;
+ona li kama ike tawa pini 	Erreicht den Hof mit MÃ¼he und Not, 	He reaches the castle with spurring and dread;
 a! mije lili ona kin li moli. 	In seinen Armen das Kind war tot. 	But, alack! in his arms the child lay dead!
 *temon 082404
 
@@ -352,14 +352,14 @@ ama li sama tan jan Kote
 Gleich und Gleich von Goethe
 
 toki-pona 		toki Tosi/Deutsch
-kasi kule li lili 		Ein Blumenglöckchen
+kasi kule li lili 		Ein BlumenglÃ¶ckchen
 li kama lon anpa. 		Vom Boden hervor
-tenpo pini la 		War früh gesprosset
+tenpo pini la 		War frÃ¼h gesprosset
 ona li suli pona. 		In lieblichem Flor;
 pipi lili li kama 		Da kam ein Bienchen
 li moku pona. 		Und naschte fein: -
-ken la ona tu 		Die müssen wohl beide
-li pona sama. 		Füreinander sein.
+ken la ona tu 		Die mÃ¼ssen wohl beide
+li pona sama. 		FÃ¼reinander sein.
 *tremon 082404
 
 829
