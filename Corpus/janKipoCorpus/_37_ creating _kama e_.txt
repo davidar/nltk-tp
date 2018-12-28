@@ -1,0 +1,23 @@
+37
+ 'kama e'
+[John Clifford]
+o pini e pali pi nimi sin!
+  [Serge Ganachaud]
+taso toki li suli kepeken nasin ni.
+[John Clifford]
+
+37a
+
+'kama e'
+[John Clifford]
+o pini e pali pi nimi sin!
+(?o pini pali e nimi sin)
+  [Serge Ganachaud]
+taso toki li suli kepeken nasin ni.
+[John Clifford]
+
+[`kama e'. 
+Stop the creation of new words.
+(Stop making new words.)
+But languages grow in that way.]
+

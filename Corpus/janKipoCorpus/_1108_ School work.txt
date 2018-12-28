@@ -1,0 +1,42 @@
+1108
+
+andriard 
+    mi ike lili
+    mi jo e tomo pali pi tomo sona
+    
+["I have an exam tomorrow"]
+
+michael_fridman
+    ken la sina ken toki e ni:mi jo e pali pi tomo sona.tenpo lili la jan pi tomo sona li lukin e sona mi.sina pilin ike tan ni la sina ken toki e ni:jan pi tomo sona li utala sona e mi!
+    
+    
+    
+1108a
+
+andriard 
+    mi ike lili
+    mi jo e pali tomo pi tomo sona
+    
+["I have an exam tomorrow"]
+
+michael_fridman
+    ken la sina ken toki e ni:mi jo e pali pi tomo sona.tenpo lili la jan pi tomo sona li lukin e sona mi.sina pilin ike tan ni la sina ken toki e ni:jan pi tomo sona li utala sona e mi!
+
+
+
+
+
+
+
+[andriard 
+    I am a little ill.
+       I have homework for school.
+["I have an exam tomorrow"]
+
+Michael_fridman
+Maybe you can say
+`I have work for school"
+"In a little while, the people at school will examine my knowledge"
+If you feel bad because of this, you can say
+"The people at school will attack me intellectually."]
+

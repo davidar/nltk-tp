@@ -1,0 +1,191 @@
+Announcements (calling attention to events, urging participation, etc.)  Generally pretty easy.
+3, 18, 38, 52, 66, 74, 120, 157, 222, 234, 272, 279, 304, 310, 321, 335, 367, 376, 396, 415, 441, 480, 501, 524, 535, 536, 544, 548, 552, 596, 600, 603, 609, 610, 611, 613, 614, 617, 619, 620, 622, 623, 625, 626, 629, 646, 656, 659, 660, 662, 663, 664, 665, 666, 668, 669, 692, 694, 700, 730, 745, 748, 749, 776, 777, 832, 922, 935, 956, 959, 970, 982, 1017,1027, 1032, 1070, 1083, 1084, 1087, 1109, 1119, 1153, 1155, 1159, 1160, 1161, 1162, 1164, 1168, 1169, 1183, 1184, 1185, 1190, 1191, 1194, 1230, 1232, 1261, 1266,
+
+Chat (free-wheeling back and forth, usually not reaching a conclusion.  A default category, admittedly) variable difficulty
+16, 35, 60, 61, 62, 87, 92, 103, 104, 110, 112, 121, 123, 128, 132, 138, 143, 150, 159, 156, 166, 192, 193, 201, 202, 204,208, 215, 216, 217, 218, 219, 225, 228, 229, 230, 233, 240, 248, 264, 270, 280, 281,283, 286, 290, 205, 302, 307 308, 312, 317, 322, 337, 339, 342, 344, 351, 353, 354, 356, 357, 360, 362, 369, 370, 373, 374, 384, 404, 405, 405a, 409, 412, 430, 431, 432, 433, 434, 435, 439, 440, 445, 446, 447, 450, 451, 452, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 471, 472, 472a, 473, 474, 475, 476, 477, 478, 479, 481, 482, 483, 484, 485, 486, 487, 499, 507, 516, 520, 523, 591, 593, 598, 601, 607, 608, 624, 637, 640, 642, 643, 645, 648, 649, 650, 667, 698, 699, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 712, 713, 714, 715, 716, 717, 718, 719, 720, 723, 727, 728, 797, 798, 804, 814, 816, 821, 823, 824, 833, 836, 838, 843, 844, 845b, 845f, 864, 866, 967, 868, 869, 870, 875, 876, 877, 879, 880, 881, 883, 884, 887, 889, 892, 894, 895, 897, 900, 901, 906, 907, 910, 912, 915, 916, 919, 923, 925, 929, 933, 934, 936,939, 942, 943, 945, 948, 949, 950, 951, 952, 954, 955, 961, 963, 964, 965, 968, 976, 979, 980, 986, 1009, 1010, 1014, 1016, 1019, 1020, 1025, 1028, 1030, 1036, 1042, 1044, 1047, 1051, 1052, 1053, 1064, 1065, 1087, 1072, 1073, 1074, 1075, 1094, 1095, 1104, 1106, 1107, 1108, 1110, 1112, 1113, 1114, 1115, 1120, 1122, 1123, 1126, 1128, 1133, 1134, 1135, 1140, 1143, 1146, 1151, 1163, 1165, 1175, 1178, 1181, 1186, 1187, 1202, 1218, 1239, 1267 
+
+Complaints (about various things; a subtype of chats, mainly)  some rather complex.
+845a, 871, 1076, 1144, 1145, 1171, 1172, 1244,
+
+Congratulations (mainly absorbed into other types) pretty formulaic
+254
+
+Criticism (of various things, a kind of complaint) variable
+80, 86, 99, 100,142, 285, 391, 750, 845 
+
+Definition (reply to question about what x means) can get complex
+81, 93, 96, 101, 102, 107, 108, 109, 11, 114, 115, 126, 145, 147, 151, 156, 160, 
+
+Discussion (free-wheeling but getting to a sort of conclusion with fewer side issues) variable
+31, 36, 37, 41, 42, 46, 88, 89, 134, 138, 139,140, 149, 163, 196, 197, 209, 244, 301, 341, 347, 349, 436, 437, 438, 470, 529, 549,  551, 556, 559, 564, 565, 579, 589, 602, 606, 612, 621, 638, 641, 644, 652, 655, 711, 724, 725, 742, 743, 744, 762, 770, 801, 817, 820, 831, 835, 845h, 845k, 859, 872, 874, 893, 896, 899, 908, 911, 918, 928, 937, 944, 957, 962, 967, 1038, 1046, 1068, 1101, 1102, 1103, 1105, 1116, 1117, 1118, 1121, 1127, 1136, 1196, 1297
+
+Fairy tales (familiar mostly) not so simple as one might hope.
+      Beauty and the Beast	 173
+      Briar Hedge	634
+      Cinderella	425
+      Death and the Gardener   175
+      Goldilocks	76, 182, 220, 252, 
+      Hansel and Gretel	288
+      Jack and the beanstalk	635
+      Little Red Riding Hood	423, 424
+      Moon water flower	177
+      Rainbow	239
+      Squirrel	400
+      Three Little Pigs	429
+      
+Fun (games with tp) usually pretty simple grammar
+27, 28, 29, 65, 67, 68, 73, 97, 119, 195, 378, 517, 521, 605, 734, 932, 960, 996, 1077, 1078, 1192, 1237
+
+Greetings (formulaic) easy (but hard to work out grammatically)
+59, 420, 454, 653, 675, 685, 688, 806, 818, 819, 858, 958, 983, 991, 1005, 1193
+
+Introduction (newby joining up) mainly formulaic and simple
+2, 6, 12, 43, 94, 122, 144, 179, 213, 227, 236, 238, 275, 276, 278a, 282, 294, 329, 358, 395, 442, 495, 527, 647, 672, 673, 676, 677, 678, 680, 681, 682, 683, 684, 686, 690, 691, 796, 810, 811, 812, 854, 895, 988, 998, 1033, 1034, 1035, 1057, 1069, 1971, 1079, 1124, 1148, 1149, 1152, 1167, 1173, 1179, 1182, 1189, 1219, 1241, 
+
+Joke (a tp word in a real world context) usually simple and short	
+95, 113, 124, 125, 127, 129, 131, 259, 271, 292, 316, 338, 359, 371, 387, 543, 550, 921, 946
+
+Maxim (short bit of "wisdom") often rather convoluted
+33, 53, 75, 77, 117, 148, 164, 200, 246, 250, 261, 265, 266, 305, 318, 320, 325, 326, 327, 348, 365, 382, 383, 389, 422, 505, 533, 571, 599, 638, 733, 755, 787, 802, 803, 839, 848, 853, 860, 865, 885, 890, 931, 981, 992, 993, 1004, 1018, 1026, 1050, 1058, 1080, 1231, 1247, 1249, 1251, 1254,1260, 1265, 1268, 1276, 1277, 1298, 1303, 1306, 1308, 
+
+Memes (random pictures with irrelevant comments)  usually fairly simple unless someone tries to explains them
+11, 15, 19, 64, 191, 242, 314, 324, 328, 332, 344, 345, 372, 393, 401, 414, 448, 557, 597, 604, 726, 861, 904, 909, 920, 940, 969, 974, 975, 977, 978, 990, 994, 1002, 1003, 1029, 1281, 1300, 1302, 1313, 
+
+Poetry (I don't do this, so no classification yet -- please help) often complex
+39, 45, 49, 172, 198, 268, 309, 346, 350, 399, 402, 408, 494, 515, 538, 539, 563, 658, 729, 731, 732, 735, 736, 737, 738, 739, 751, 752, 754, 757, 758, 759, 760, 761, 763, 764, 767, 768, 769, 771, 773, 774, 774, 775, 778, 779, 780, 781, 782, 783, 784, 785, 778, 779, 780, 781, 783, 784, 785, 788, 789, 790, 791, 792, 793, 794, 795, 973, 999, 1150, 1222, 1228, 1229, 1243, 1250, 1252, 1257, 1301, 1307, 1311, 1312, 1334, 
+
+Precis (short summary of a long piece) usually fairly simple
+Genesis 1210, 1212, 1213, 1214
+Hobbit	1326
+Iliad	1324
+
+Proposals (start discussion) pretty easy
+13, 71, 377
+
+Question (starts discussion, definitions, etc,) variable
+8, 9, 21, 26, 44, 57, 105, 106, 146, 153, 154, 155, 161, 194, 226, 231. 232, 235, 241, 245, 247, 255, 256, 258, 262, 277, 284, 297, 311, 331, 355, 379, 380, 388, 406, 449, 525, 560, 615, 616, 618, 627, 657, 661, 671, 679, 746, 747, 756, 808, 809, 813, 815, 822, 825, 828, 834, 841, 845c, 845g, 845i, 847, 971, 984, 989, 995, 1012, 1022, 1023, 1024, 1037, 1039, 1040, 1049, 1054, 1055, 1056, 1062, 1081, 1097, 1099, 1125, 1138, 1141, 1147, 1154, 1157, 1166, 1180, 1199, 1201, 1215, 1224, 1240, 1310 	
+
+Status (how well are you learning tp, mainly) easy
+1, 4, 5, 10, 58, 152, 167, 313, 361, 453, 513, 519, 651, 654, 693, 697, 753, 807, 902, 1021, 1045, 1060, 1066, 1082, 1170, 1197, 1299, 
+
+Tales (short episodes, generally not first person -- some are starts of longer stories not completed) variable
+426, 531, 537, 583, 584, 588, 595, 630, 631, 632, 633, 845j, 1129, 1176, 1177, 1203, 1233, 1242, 1248, 1325
+
+Traditional Greetings (Greetings for special occasions)
+17, 34, 199, 851, 856, 862, 863, 891, 917, 926, 997, 1000, 1001, 1006 1085, 1086, 1089, 1090, 1093, 1130, 1131, 1132, 1195, 1253, 1258, 1294, 
+
+Translations
+	Novel Old Man and the Sea (open) 1246
+		Harry Potter (open)	1137
+		The Prophet
+		Lord of the Rings (open)	1245
+		The Egg	1263
+		Phantom Tollbooth	1283
+		Opening line	849
+		Where the wild things are	1288
+		Pigeon needs a bath	1314
+		Yertle the Turtle (frag)  1315
+		Pooh day	850
+	Movie	Star Wars scene	670
+		Matrix	1287
+	Dao de jing 	1	1208, 1209, 1336
+			2	1336
+            36	224
+            43	1206
+            44	1205			
+	Poetry	Two Paths	1272
+		Man in the Queue	30
+		Waiting to be dead	50
+		Haiku anthology	171
+      The beginning of my education	212
+      At First		273
+      Metaphysics	274
+      Night Vale	287
+      Wanderer's Song	289
+      I Protest	298
+      All is calm	319
+      Here comes a thought		323
+      Hand of Gold	340
+      The song of the rings		352, 1282, 1304
+      Cantada	390
+      Haka chant	411
+      Pusa 		1221
+      Long ago	1235
+      Why the caged bird sings	1255
+      Sonnet		1262
+      Rubriqu	1259
+      Harlem		1274
+      Kids who die	1275
+      A snake can kill	1292
+      Rains of Castamere	1295
+      Left hand of darkness & Revolution	1319
+      That Person 1320
+      Anulintale	1321, 1323
+      Pale blue bird	1322
+      And days are not full enough	1327
+      By Mistral
+      Foundations 	1260
+	Quotes	 PreSocratics	1291
+		Helen 167-178		267
+		Isopanishad	1227
+		Finding the first people 1226
+		Analects 16.9	1271
+		Coelho		1289, 1290
+		Reincarnation  1309
+		Manifesto	1337
+		Mario Savio	84
+		Soliloquy	237
+	Rhymes	Fleas	47
+			April shower 	116
+			Nursery rhymes	427
+			Limerick	766
+			Children's poems	1256
+	Lyrics	Stairway to the stars	51
+		Bohemian rhapsody	55
+		Big Bang theory theme	118
+		Joshua fit de battle		203
+		Perhaps	206
+		Song from Mulan	740
+		Lucky Man	1031
+		Vegaszavak	1264
+		Crystals	1270
+		By Zappa	1284
+		I am a rock	1293
+		Game: Red Sword 1329
+		Cold night	1330
+		Little bird	1331
+		Hello		1333
+		Fr Djemunai	1332
+		Heavy		1335
+	Bible	Gen 1 	(Creation 1)
+      Gen 11:1-9	(Babel)		83, 181
+      Gen 29:15-28	(Jacob and Laban)	333
+      Ps 51:1-12	190, 14
+		Matt 5-7 	(Sermon on the Mount) 169
+		Acts 2:1-11 1296	(Pentecost)
+		Phil 3:21	1279
+		James 3:2	1278
+		Rev 1:1-6	205
+	Epic	Gilgamesh and Humpapa	168
+		Gilgamesh and Enkidu	180
+		Ali				368
+		Opening lines	1266
+		Descent to Hell	1273
+	Prayer		210
+		Doxology	211
+		Mul mantra	1216
+		Warrior Prayer	1134
+		Lord's Prayer	1138, 1285, 
+		Night Watch	1317
+	Joke	Dick	1158
+
+
+Vignettes (short first person stories) mainly fairly simple
+
+22, 23, 24, 25, 32, 40, 54, 56, 63, 82, 136, 158, 162, 165, 170, 176, 178, 183, 184, 185, 186, 187, 188, 189, 214, 221, 223, 253, 263, 269, 277a, 278, 291, 293, 296, 300, 303, 306, 315, 332a, 343, 343a,  375, 397, 398, 403, 407, 413, 419, 490, 491, 492, 493, 496, 498, 500, 502, 503, 504, 506, 509, 510, 511, 512, 514, 522, 526, 528, 530, 532, 534, 541, 542, 545, 546, 547, 553, 554, 555, 556, 558, 561, 562, 566, 568, 569, 570, 572, 573, 574, 575, 576, 580, 581, 582, 585, 586, 590, 592, 594, 772, 786, 800, 826, 827, 829, 830, 840, 842, 845d, 845e, 845i, 846, 848, 852, 855, 857, 873, 878, 882, 886, 888, 898, 903, 905, 913, 924, 927, 930, 941, 947, 966, 987, 1007, 1008, 1011, 1013, 1048, 1059, 1061, 1063, 1088, 1091, 1092, 1100, 1139, 1142, 1156, 1174, 1217, 1269, 1328, 
+
+Welcome (the response to introductions)  very easy
+7, 687, 695, 721, 722, 805, 
+
+https://docs.google.com/document/d/e/2PACX-1vQxTqQroyI53VcQBSHzXy_AOGsztA3wPEGvBAOj7Or-K3j7VAcXYVxDaUUFfzQSLUmdcAF0cKMQoY1t/pub
+

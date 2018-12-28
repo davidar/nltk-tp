@@ -1,0 +1,26 @@
+Calligraphy
+422
+
+Canadian Indigenous Script
+201
+
+"Cyrillic"
+244, 389
+
+"Greek"
+244, 1132
+
+Morse code
+404
+
+Philippine scripts
+325
+
+sitelen pona (pu logoglyphs)
+54, 60, 123, 195, 327, 457, 458, 533, 576, 599, 683, 738, 764, 1072, 1174 (early version), 1304
+
+sitelen sitelen (Gable's "Mayan" logoglyphs)
+224, 291, 463, 683, 1277
+
+
+

@@ -1,0 +1,40 @@
+
+
+mi ilo toki e sina
+[Contrum]
+  mi toki tawa sina kepeken ilo
+  [Marie Elliott]
+mi sitelen tawa sina kepeken ilo toki 
+mi toki tawa sina kepeken ilo toki = I'm talking to you on the telephone.
+  [glottal-stop]
+mi kepeken e ilo toki tan ni: mi toki e sina.
+       [dommitor]
+mi sitelen tawa sina kepeken ilo toki = I'm texting you.
+mi toki tawa sina kepeken ilo toki = I'm talking to you on the telephone.
+       [glottal_stop]
+       
+       
+91a
+
+mi ilo toki e sina
+[Contrum]
+  mi toki tawa sina kepeken ilo
+  [Marie Elliott]
+mi sitelen tawa sina kepeken ilo toki 
+mi toki tawa sina kepeken ilo toki 
+[glottal-stop]
+mi kepeken ilo toki tawa ni: mi toki tawa sina.
+       [dommitor]
+mi sitelen tawa sina kepeken ilo toki 
+mi toki tawa sina kepeken ilo toki 
+[glottal_stop]
+       
+
+
+[I am telephoning you
+I am talking to you on a phone.
+I am writing to you on a telephone (I am texting you)
+I am talking to you on the telephone.
+I am using the telephone to talk to you.
+I am texting you.
+I am talking to you on the telephone.]

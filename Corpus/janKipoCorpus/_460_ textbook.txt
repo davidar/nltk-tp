@@ -1,0 +1,66 @@
+
+460a
+
+    languser-
+   toki
+   socks-
+   toki
+   languser-
+   mi wile sona e toki pona
+   Socks-
+   pona 
+   kama sona la sina kepeken seme?
+   languser-
+   lipu
+   mi toki ala pona kepeken toki pona
+   socks-
+   sina lukin e lipu seme?
+   languser-
+   lukin
+   socks-
+   mi pu. mi kama sona e toki pona la mi kepeken lipu pi jan Sonja. lipu ni li lon http://tokipona.org
+   taso lipu ante li lon.
+   sina wile kepeken toki ante la sina ken. 
+   languser-
+   mi kepeken lipu pi ilo Pdf
+   mi toki kepeken toki Inli en toki Epanja
+   socks-
+   mi kama sona e toki Epanja.
+   lipu pi ilo Pdf li pona ala pona?
+   languser-
+   pona
+   lipu http://rowa.giso.de/languages/toki-pona/english/toki-pona-lessons_en.pdf li lipu ni
+   socks-
+   a. ni li lipu sona pi jan Lope.
+
+
+
+[languser-
+   Greetings!
+   socks-
+   Greetings.
+   languser-
+   I want to know toki pona.
+   Socks-
+   Good.  For learning, what do you use?
+   A book.  
+   I don't speak toki pona well.
+   socks-
+   What book did you read?
+   languser-
+   Look at.
+   socks-
+   I follow pu.  When I learned toki pona, I used Sonja's book.  It is at  http://tokipona.org.
+   But there are other books.  If you want to use another book, you can.
+   sina wile kepeken toki ante la sina ken. 
+   languser-
+   I use a pdf book.  I speak English and Spanish.
+   socks-
+   I am learning Spanish.
+   Is the pdf book good?
+   languser-
+   Yes. 
+   http://rowa.giso.de/languages/toki-pona/english/toki-pona-lessons_en.pdf is this book.
+   socks-
+   Oh!  That is Lope's textbook.]
+

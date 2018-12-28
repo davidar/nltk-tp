@@ -1,0 +1,70 @@
+
+86
+
+nimi 'ala' li pakala monsi tan ni: ona li ken lon ali lon linja nimi pi kulupu nimi pini.  taso lon wan la ona li ken kulupu e nimi sinpin wan anu nimi sinpin mute anu kulupu nimi pini kin.  o lukin e ni:
+ona li wile tawa toma ala
+ni li ken sona e ni ali: (kepeken sitelen sona)
+
+ni li lona ala: ona li wile tawa tomo  		((ona(wile(tawa tomo)))ala)
+ona li ken tawa tomo 				(ona((wile ala)(tawa tomo)))
+ona li wile e ni: ni li lon ala: ona li tawa tomo  (ona(wile((tawa tomo)ala)))
+ona li wile e ni: ona li tawa. taso ona li tawa lon ante pi tan tomo (ona (wile(tawa (tomo ala)))
+
+ken la kepeken sitelen kon (',') li pona e pakala ni.  kama nanpa tu tu la jan li wile ala e sitelen kon tan ni: nimi 'ala' li poka nimi pi lon sinpin ona.  tan ni la kama nanpa tu wan la jan wile kepeken sitelen kon tawa ni: jan lukin li kama lukin e ni: nimi 'ala' li poka ali pi kulupu 'tawa tomo'.  kama nanpa wan li lon ala tan ni: nimi 'ala' pi poka kulupu nimi pini li lon monsi pi nimi pi lon monsi pi nimi 'li'.  nimi ante la sitelen sona pi kama nanpa wan li kepeken e kulupu nimi pini 'ona li wile ala tawa tomo'.  taso kama nanpa tu li awen li sama kulupu nimi pini pi kama nanpa wan. taso ona li sona e ante mute.  
+
+poka la mi pilin e ni: kulupu nimi pini pi wile sona pi kepeken sitelen sona 'x ala x' li tan kulupu nimi pini pi kepeken sitelen sona 'x ala anu x'.
+
+John Clifford mi lape lili lon tenpo pi lon monsi pi insa pi tenpo suno. ni li pini la mi kama pilin e ni: toki sewi ni li wile lon lipu "Forums" tan ni: ona li ike mute. http://forums.tokipona.org/viewforum.php?f=5
+  
+  Алексей Тихонов jan Kipo li pini a lape lili la jan Kipo li jan nanpa wan. jan Kipo li telo e ona la jan Kipo li jan nanpa tu. ))mI lukin e sitelen sona sina la mi pilin e ni: toki pona li jo e nimi pona mute e nimi wan pona lili. nimi wan ni li nimi 'ala'.
+  
+  ken la:(ona li (wile(tawa (tomo ala) )))ona li wile tawa ni: ni li tomo ala(ona li (wile( (tawa tomo) ala) )) ona li wile e ni ala: ni li tawa tomo
+  
+  
+  86a
+
+nimi 'ala' li pakala monsi tan ni: ona li ken lon ali lon linja nimi pi kulupu nimi pini.  taso lon wan la ona li ken kulupu e nimi sinpin wan anu nimi sinpin mute anu kulupu nimi pini kin.  o lukin e ni:
+ona li wile tawa toma ala
+ni li ken sona e ni ali: (kepeken sitelen sona)
+
+ni li lon ala: ona li wile tawa tomo  		((ona(wile(tawa tomo)))ala)
+ona li wile ala tawa tomo 				(ona((wile ala)(tawa tomo)))
+ona li wile e ni: ni li lon ala: ona li tawa tomo  (ona(wile((tawa tomo)ala)))
+ona li wile e ni: ona li tawa. taso ona li tawa lon ante pi tan tomo (ona (wile(tawa (tomo ala)))
+
+ken la kepeken sitelen kon (',') li pona e pakala ni.  kama nanpa tu tu la jan li wile ala e sitelen kon tan ni: nimi 'ala' li poka nimi pi lon sinpin ona.  tan ni la kama nanpa tu wan la jan li wile kepeken sitelen kon tawa ni: jan lukin li kama lukin e ni: nimi 'ala' li poka ali pi kulupu 'tawa tomo'.  kama nanpa wan li lon ala tan ni: nimi 'ala' pi poka kulupu nimi pini li lon monsi pi nimi pi lon monsi pi nimi 'li'.  nimi ante la sitelen sona pi kama nanpa wan li kepeken kulupu nimi pini 'ona li wile ala tawa tomo'.  taso kama nanpa tu li awen li sama kulupu nimi pini pi kama nanpa wan. taso ona li sona e ante mute.  
+
+poka la mi pilin e ni: kulupu nimi pini pi wile sona pi kepeken sitelen sona 'x ala x' li tan kulupu nimi pini pi kepeken sitelen sona 'x ala anu x'.
+
+John Clifford mi lape lili lon tenpo pi lon monsi pi insa pi tenpo suno. ni li pini la mi kama pilin e ni: toki sewi ni li wile lon lipu "Forums" tan ni: ona li ike mute. http://forums.tokipona.org/viewforum.php?f=5
+
+  Алексей Тихонов jan Kipo li pini e lape lili la jan Kipo li jan nanpa wan. jan Kipo li telo e sama la jan Kipo li jan nanpa tu. ))mI lukin e sitelen sona sina la mi pilin e ni: toki pona li jo e nimi pona mute e nimi wan pi pona lili. nimi wan ni li nimi 'ala'.
+  
+  ken la:(ona li (wile(tawa (tomo ala) )))ona li wile tawa ni: ni li tomo ala(ona li (wile( (tawa tomo) ala) )) ona li wile e ni ala: ni li tawa tomo
+  
+  
+  
+  
+  
+  [The word `ala' is a pain in the butt because it can be anywhere in a word string in a sentence.  But in one place it can group with one word in front or many words in front or even a sentence.  Look at these:
+This is not true: He wants to go home.		((ona (wile (tawa tomo))) ala)
+He doesn't want to go home				(ona ((wile ala)(tawa tomo)))
+He wants it to be false that he is going home. (ona ((wile (tawa tomo)) ala)
+He wants to go but to some place other than home.  (ona (wile (tawa (tomo ala)))
+Maybe using a comma would improve this mess.  In the fourth case, one does not want to write the comma because `ala' goes with the word in front of it.  So, in the third case, ne needs to use a comma to enable the reader to find that `ala is with the whole phrase `tawa tomo'.  Case number one is not legitimate  because `ala' goes with the sentence and is after the words behind `li'.  In other words, the linguistic pattern of the first case uses the sentence `ona li wile ala tawa tomo'. [This is not correct, but was a common position at the time.  There is no tp way to do case one simply.] But case two remains and is the same as the last version of the first case.  But it means something very different.
+By the way, I think that question sentences using the pattern `x ala x' is from the sentence using the pattern `x ala anu x'.
+
+I napped in the afternoon. After that I came to think that this lofty discussion needed to be on Forums because it is very hard.
+When Kipo finishes his nap, Kipo is the first person.  When Kipo washes himself he is a second person.  
+When I look at your patterns I think that toki pona has many good words and one not so good.  That one word is `ala'.
+
+Maybe
+  :(ona li (wile(tawa (tomo ala) )))He want to go to a place that isn't home.(ona li (wile( (tawa tomo) ala) )) He want to something that isn't going home.]
+  
+  
+
+
+
+
+
+

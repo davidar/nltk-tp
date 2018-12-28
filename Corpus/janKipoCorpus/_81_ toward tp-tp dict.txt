@@ -1,0 +1,59 @@
+81
+
+PI:sina li kepeken e nimi 'pi' lon tenpo ni: wile nimi e ijo kepeken nimi tu anu nimi mute.LA:sina li kepeken e nimi 'la' lon tenpo ni: sona pi ijo pi nanpa wan li suli tawa sona pi ijo pi nanpa tu.A counter-example:SUNO:suno li ni: oko li lukin e ali kepeken suno. kule ali li lon tan suno. suno ala li lon la ali li pimeja.suno li tan ijo mute. kule jelo pi lon sewi walo (☀️) li tan ona. seli wawa () li ken tan ona. jan li kepeken e ilo suno mute kin. ilo suno pi ko pipi (?) en ilo suno pi kiwen pi kule ala () li ilo sama ni.
+[Michal Kotwica]
+
+suno li ijo tu:suno: pimeja li lon ala la suno li lon.suno: ijo suli. ona li pana e suno mute tawa ma ali.suno li lon ala la ma ali li lete mute li jo ala e jan. suno li ken seli e selo jan. sina wile tawa lon anpa suno la o pana e ko walo pi weka e seli suno tawa selo sina.
+[tan lipu Wikipesija]
+
+   WASO: waso li soweli lili pi tawa lon kon sewi. ni jo e noka tu, e uta kiwen. kulupu waso li jo e kule mute. taso waso mute li jo e kule lili kin. tenpo pini mute la kulupu mama pi waso li sama kulupu mama pi akesi
+  [Yonah Sienna]
+  
+Anu "jan li pana e ijo, tawa ni: jan li kama jo e mani".[Piotr Mittelstadt]
+
+TOKI jan li open e toki sin la jan li toki e nimi ni.[Piotr Mittelstadt]
+
+TOKI: sina toki tawa mi la mi sona e sona sina
+[Serge Ganachaud]
+  
+
+81a
+
+PI:sina li kepeken e nimi 'pi' lon tenpo ni: sina wile nimi e ijo kepeken nimi tu anu nimi mute.LA:sina li kepeken e nimi 'la' lon tenpo ni: sona pi ijo nanpa wan li suli tawa sona ijo pi nanpa tu.SUNO:suno li ni: oko li lukin e ali kepeken suno. kule ali li lon tan suno. suno ala li lon la ali li pimeja.suno li tan (pi?)  ijo mute. kule jelo lon sewi walo (☀️) li tan ona. seli wawa () li ken tan ona. jan li kepeken e ilo suno mute kin. ilo suno pi ko pipi (?) en ilo suno pi kiwen pi kule ala () li ilo sama ni.
+[Michal Kotwica]
+
+suno li ijo tu:suno: pimeja li lon ala la suno li lon.suno: ijo suli. ona li pana e suno mute tawa ma ali.suno li lon ala la ma ali li lete mute li jo ala e jan. suno li ken seli e selo jan. sina wile tawa lon anpa suno la o pana e ko walo ni: ona li weka e seli suno tan selo sina.
+[tan lipu Wikipesija]
+
+   WASO: waso li soweli lili pi tawa lon kon sewi. ni jo e noka tu, e uta kiwen. kulupu waso li jo e kule mute. taso waso mute li jo e kule lili kin. tenpo pini mute la kulupu mama pi waso li sama kulupu mama akesi
+  [Yonah Sienna]
+  
+Anu "jan li pana e ijo, tawa ni: jan li kama jo e mani".[Piotr Mittelstadt]]
+
+TOKI jan li open e toki sin la jan li toki e nimi ni.[Piotr Mittelstadt]
+
+TOKI: sina toki tawa mi la mi sona e sona sina
+[Serge Ganachaud]
+
+
+[PI
+You use `pi' on this occasion: You want to name something using two or more words.  [really wrong]
+
+LA
+You use `la' on this occasion: knowledge of the first thing grows toward knowledge of the second thing. [? not helpful]
+
+Light
+Light is this: Eyes see everything using light.  All colors exist because of llght. If light didn't exist, everything would be black.
+Light is the cause of (because of) many things.  The yellow color in the white sky is because of (the cause of) it.  Intense heat can be a cause (because) of it.  People use many torches too.  The light tool of bug dust and the light tool of glass are this same tool.  
+Light is two things.
+Light.  If darkness does not exist,there is light.
+Sun. A big thing.  It sends a lot of light to the whole world.
+If the sun did not exist, the whole world would be very cold and not have people.  If you want to go under the sun, spread this white ointment which removes the heat of the sun from your skin.
+
+Bird. A bird is a little animal that travels in the sky.  It has two hindlegs and a hard mouth. The class of birds contains many colors.  But many birds have really little color.  A long time ago, the family of birds was the same as the family of reptiles.
+Or "Somebody gives something so that somebody gets money"
+
+Toki
+If somebody begins a new conversation, he says this word.
+If you talk to me, I know what you know.]
+

@@ -1,0 +1,9 @@
+41
+[how to cite an example]
+<<o sitelen e nimi. sina wile la, sina ken pali sama ni: "toki".>>
+[Serge Ganachaud]
+   "o sitelen e nimi. nimi li sama ni: "toki""
+[Marie Elliott]
+
+[Write a word.  If you want, you can do like this: `toki'.
+Write a word.  The word is like this: "toki"]  [actually,single quotes]

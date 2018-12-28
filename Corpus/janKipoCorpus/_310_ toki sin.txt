@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+310
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Edmund Osborne
+mi pali li toki sin. toki sin mi li jo e nimi tu pi toki pona. Ona li jo e nimi E e nimi Jan.
+
+
+310a
+--------------------------------------------------------------------------------
+
+mi pali li toki sin. toki sin mi li jo e nimi tu pi toki pona. ona li jo e nimi `E' e nimi `Jan'.
+
+
+[I made a new language.  My new language has two words of toki pona.  It has `e' and `jan'.]

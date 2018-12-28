@@ -1,0 +1,69 @@
+185
+
+P: toki, jan Tan o.  mi ken pali e seme tawa sina?
+T: jan Pili o, toki.  sina ken pana e mani tawa mi.
+
+P: a a a! mi pana kin ala e mani.  mi esun e mani lili pi tenpo ni tawa mani mute kama.
+T: lon!  o weka e toki ike mi.  mi wile e ni: sina esun e mani ni tawa mi tawa mani kama.
+
+P: sina wile e mani tawa seme?
+T: mi wile e ni: mi esun e tomo kepeken ona.
+
+P: tomo ni li seme?
+T: jan Jan li tawa weka tawa ma pi poka pi telo suli pi anpa suno li wile esun e tomo ona tawa jan.  mi wile esun e ona tan jan Jan.
+
+P:  tomo ni li seme li jo e tomo pi mute seme?
+T: ona li jo e tomo lape tu wan e tomo telo tu wan e tomo pali tu e tomo moku e tomo pi seli moku e tomo kulupu e tomo musi pi lon anpa..
+
+P: ma poka ona li seme?
+T: tenpo suli la tomo pi ma poka li lon.  taso ona li awen pona tan ni: jan jo ona li pona pona e ona. jan mute pi mani pona li awen lon poka ni.
+
+P: jan Jan li wile esun e ona tawa mani pi nanpa seme
+T: ona wile kin esun e ona tawa mani pi nanpa ni.  taso mi pilin e ni: ona li kama esun e ona tawa mani pi nanpa ni taso. kin la mi jo e mani pi nanpa ni.  tan ni la mi wile esun e mani pi nanpa ni taso tan sina.
+
+P: pona.  mi esun e mani pi mute ni tawa mani kama pi nanpa ni.  pini kama la tenpo mun ali la sina pana e mani pi nanpa ni tawa mi.  tenpo pi mun pi mute lili la sina pana ala e mani ni la, mi weka e tomo tan sina.
+T:  pona. tenpo suna pi nanpa seme la mi ken jo e mani.
+
+P: nanpa wan la mi tu li wile sitelen e lipu mute.  ni pini la mi pana e lipu ni tawa kulupu lawa pi tomo mani ni.  lipu li pona tawa ona la mi tu li sitelen e lipu pi mute lili.  pini la mi esun e mani tawa sina tawa lipu pi jo tomo. sina pini pana e mani la mi pana e lipu ni tawa sina.
+T: pona.  open la mi tu li sitelen e lipu seme?
+
+[You have to imagine that each time someone says 'mani pi nanpa ni' he holds up a paper that has a money amount written on it.  This is because toki pona does not have a facility for large numbers (starting somewhere around 3)  toki pona has only two number words, 'wan' and 'tu' (three, if you count 'ala' as 0) and these are to be combined only additively: tu wan = 3, tu tu = 4, and so on.  The use of 'luka', "hand", for 5 is widespread, though not officially condoned and several other words have been pressed into service for larger basic numbers (20, 100, 1000) within this system, but none of these are adequate for use in the modern world.  The additive principle alone is enough to defeat them.  Many suggestions have been made. of course, about how to break out of this mold most simply: introducing multiplication with 'pi', say, or using tresimal (base 3) notation, and so on.  But none has caught on -- though someone uses each of them sometimes.
+
+The source of this problem (if it is one for you -- as it clearly is for Bill and Tom and John) is the ideal toki pona community, which has a basic barter economy and no stratification by wealth, so generally very little need for numbers.  The participants can tell whether a swap is fair (we assume)  and almost anything else for which we might use numbers can be handled by tallies or whatever 1-1 matching devices are to hand. And there are, of course, no street numbers nor telephones nor radio dials nor ... nor any other thing that uses numbers (and letters -- there are none of those in toki pona either) in what is practically an address sort of way (where the pointer is or goes).  
+
+But we don't live in that community and in the one we do live in, numbers -- big numbers -- are ubiquitous.  There is little we can do without them in some form or other.  With a few specialized exceptions, the numbers we run into are the decimal in left-to-right place notation (where that is relevant) and the letters are in some form related more or less directly to the Latin alphabet.  To meet these problems in toki pona writing, of course, we can just use the numerals or letters themselves.  But how do we pronounce these marks?  As a practical matter, most people I know, on the rare occasions when the need arises, just pronounce them as in their native languages.  That interferes somewhat with intelligibility, if the people in the conversation come from different native languages.  So, a uniform device is needed.  What that device would be is not clear beyond the following:
+ 	it is not a part of toki pona per se but is rather like the proper adjectives for names (indeed making these items adjective modifying 'nanpa' and the like seems the easiest way to introduce them)
+ 	it contains names for all the digits 0-9 and all the letters of the Latin alphabet and for the decimal point
+Beyond these minima, one might want order-of-magnitude words up and down and devices for non-Latin letters or altered ones -- as the need arose.  But no accepted system of this sort has yet been found, though several have been proposed.
+
+But, as noted, none of this is needed in the toki pona world, where all commercial transactions are carried out by 'esun' "swap, barter, exchange." 'mi wile esun e ni poka tawa ni weka'  is the basic offer to start a deal and then the haggling can begin.  In a typical swap, the direct object is what the subject brings to the exchange and the other parties item is introduced by 'tawa' "for".  Just what is the best way to refer to the other party (if at all) is open: some say 'tawa' to indicate the direction of the trade, from the subjects point of view; others say 'poka' to indicate the mutuality of the proceedings.  If we don't mention a DO, we get "doing business," which may be more specific than "working" or may be as vague as "shopping".  When money comes into the trade -- and maybe even before -- matters get somewhat more complicated, since 'esun' means both "buy" and "sell" and so the DO is sometimes what the subject brings to the exchange and sometimes what he takes away. Were we consistent, of course, the object to be purchased would be after 'tawa' and the DO would be the price, rather than the other way around as we have it. But then 'tawa' doesn't seem right for the other party, since the flow (from the subject's point of view) goes the other way, and so 'tan' seems to work better.  Even 'tawa' for the price seems not quite right and so some folk use 'kepeken' instead.  The dialog above, for the most part, treats this all as an exchange, even though what is being exchanged is money, and then a straightforward payback without anything coming to the payer.]
+
+
+[B: Hello, Tom.  What can I do for you?
+T: Hello, Bill.  You can give me some money.
+
+B: Ha ha!  I don't give money.  I swap a little money now for a lot of later money.
+T:  Right!  Excuse my bad expression.  I want you to swap this money to me for future money. 
+
+B:  Why do you want the money?
+T: I want to buy a house with it.  
+
+B: What house is this?
+T: John is going away to a land on the edge of the tropical ocean and wants to see his house to somebody.  I want to buy it from John.
+
+B: What is this house like and how many rooms does it have?
+T: It has three bedrooms and three baths and two work rooms and a dining room and a kitchen and a family room and a game room in the basement.  
+
+B: What is the neighborhood like?
+T: The houses in the neighborhood have been there a long time.  But they stay good because their owners fix them well.  Many people with enough money abide near here
+
+B: John wants to sell it for how much?
+T:  He wants to sell it for this much.  But I think he will come to sell it for just this much.  So I want to borrow only this much from you.
+
+B: Good.  I will lend you this much money for this much future money.  Until the end, each month you will give me this much money.  If you don't pay me this money for several months, take thee house away from you.
+T.  Good.  On what day can I have the money?
+
+B. First, we need to sign a lot of papers.  After that, I give these papers to directors of this bank.  If they approve the papers, we sign a few more papers.  Finally, I give you the money in exchange for the title to the house.  When you finish paying the money, I give this paper to you.  
+T. Good.  To start, What papers do we sign? ]
+
+

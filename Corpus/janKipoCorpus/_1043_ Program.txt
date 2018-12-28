@@ -1,0 +1,29 @@
+1043
+
+Stephen Waldron
+nasin nimi pi ilo sona pi toki pona.
+nanpa Np;nimi Nm = "jan ali o toki";
+nanpa Lawa () kamao kama_jo e 'Np';
+tenpo a < Np lao sitelen e Nm;o pana e 0;Pini;
+
+
+
+
+
+
+
+[A word program for a toki pona computer.
+Number Np
+Word Nm = `jan ali o, toki'.
+Lead number ()
+Start
+Get `Np';
+For a < Np,
+Write Nm;
+Send 0
+Stop.]
+
+  
+
+
+

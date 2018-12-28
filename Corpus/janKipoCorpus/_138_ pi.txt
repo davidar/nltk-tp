@@ -1,0 +1,39 @@
+138
+
+
+Rick Steenblik
+lipu "toki pona taso" la Christa Hansberry li toki e 'tenpo suno ni li tenpo suno Pi.' 
+o pona! tenpo suno pi nanpa Pi li tenpo suno pona! 
+nasin wan pi nanpa Pi li nasin "22/7": 
+nasin ni li pona. 
+taso nasin tu pi nanpa Pi li nasin "355/113": ni li pona mute kin!
+sina pali e nasin wan tan ni: (22/7)=3.14...
+sina li pali e nasin tu tan ni: (355/113)=3.1415929...
+nanpa Pi li ni: 3.14159265...
+nasin tu li pona mute: nasin wan li pona lili!
+sina pali li nasin tu la sina pilin e ni: (1 3 5)...(1 1 3 3 5 5)...(113 355)...(355/113).
+
+
+138a
+lipu "toki pona taso" la jan "Christa Hansberry" li toki e nimi 'tenpo suno ni li tenpo suno Pi.' 
+pona! tenpo suno pi nanpa Pi li tenpo suno pona! 
+nasin wan pi nanpa Pi li nasin "22/7": 
+nasin ni li pona. 
+taso nasin nanpa tu pi nanpa Pi li nasin "355/113": ni li pona mute kin!
+sina pali e nasin nanpa wan tan ni: (22/7)=3.14...
+sina pali e nasin nanpa tu tan ni: (355/113)=3.1415929...
+nanpa Pi li ni: 3.14159265...
+nasin nanpa tu li pona mute: nasin nanpa wan li pona lili!
+sina pali li nasin nanpa tu la sina pilin e ni: (1 3 5)...(1 1 3 3 5 5)...(113 355)...(355/113).
+
+
+[On Toki Pona Taso, Christa Hansberry said "Today is Pi day."
+Oh, good! The day of the number pi is a good day.
+One method of the number pi is the 22/7 method.
+This is a good method.
+But a second method of pi is the 355/113 method.  This is much better.
+You use the first method because 22/7 = 3.14...
+But you use the second method because 355/113 = 3.1415929
+Pi is 3.14159265
+The second method is much better than the first.
+If you use the second method, you think (1 3 5) (1 1 3 3 5 5) (113 355) (355/113).] 

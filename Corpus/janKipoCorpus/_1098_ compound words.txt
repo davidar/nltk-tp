@@ -1,0 +1,58 @@
+1098
+
+James Mitchell Jensen II 
+
+toki! mi kama sona e toki pona. taso mi wile toki e toki kama sona.
+    OK, now I'm going to try this next part in both languages, then with my suggestion. Corrections are greatly appreciated.lon toki pona:mi sona e toki poka ike li ken ala. taso sina ken ala ken pana poka e toki poka (toki nimi en toki nimi ante anu toki pali en toki pali ante, ijo ala kepeken toki pini. taso ken lon kama) kepeken sitelin sewi lili, sama << jan'pona'mi >>*? ijo li pona ala e ike ali lon toki ike. taso mi pilin e ijo li wile pona lili li pana e pakala lili lili tawa jan sona ala.lon toki'pona kepeken ante'mi:mi sona e toki'pona'ike li ken'ala. taso sina ken'ala'ken pana'poka e toki'poka (toki'nimi en toki'nimi'ante anu toki'pali en toki'pali'ante, ijo'ala kepeken toki'pini. taso ken lon kama) kepeken sitelin'sewi'lili, sama << jan'pona'mi >>*? ijo li pona'ala e ike'ali lon toki'ike. taso mi pilin e ijo li wile'pona'lili li pana e pakala'lili'lili tawa jan sona'ala**.* mi jan Mewika. taso sitelin Guillemets li pona tawa mi.** o lukin lon nasin e ni mi tu e << jan >> en << sona ala >> kepeken ala*** << pi >>.*** pona ala pona << kepeken'ala >>?pona!P.S.: If the apostrophes are too small, maybe dashes (pakala-lili-lili) or underscores (ken_ala_ken)?
+
+Priestofmemory
+
+sitelin_toki_anpa_lili (sitelin_toki_Untelin: << _ >>) li kama pona tawa mi. ni li ike_lili. ante li ike_mute.(It's also a style I'm familiar with as a programmer. I name variables like that all the time.)
+        
+jan_sewemi sona e ni: kulupu nimi pi suli ike li ike lon toki pona.I'm not sure this is much clearer, but it's closest to the intended meaning.nasin toki sina li pona, la jan mute li ken sona e toki sina.nasin toki sina li ike, la jan ante ala li ken sona e ona. sina taso li ken sona e toki sina.
+
+
+
+
+1098a
+
+James Mitchell Jensen II 
+
+toki! mi kama sona e toki pona. taso mi wile toki e wile sona.lon toki pona:mi sona e ni: nimi pi poka ike li ken ala. taso sina ken ala ken pana poka e nimi poka  (ken la ni li nimi ijo en nimi ante anu nimi pali en nimi pi ante pali, taso ni li ijo ala pi kepeken nimi sinpin pi taso lon open) kepeken sitelin sewi lili, sama sitelen  << jan'pona'mi >>*? ijo li pona ala e ike ali lon toki ike. taso mi pilin e ni:  ijo li pana e pona lili li pana e pakala lili lili tawa jan pi sona ala.lon toki'pona kepeken ante'mi:mi sona e ni: nimi pi poka'ike li ken'ala. taso sina ken'ala'ken pana'poka e nimi'poka (ken la ni li nimi'ijo en nimi'ante anu nimi'pali en nimi pi ante'pali, taso ni li  ijo'ala pi kepeken nimi'sinpin pi  taso lon open) kepeken sitelin'sewi'lili, sama sitelen << jan'pona'mi >>*? ijo li pona'ala e ike'ali lon toki'ike. taso mi pilin e ijo li pana e 'pona'lili li pana e pakala'lili'lili tawa jan pi sona'ala**.* mi jan Mewika. taso sitelin Guillemets li pona tawa mi.** o lukin e ni: nasin ni la  nimi << jan >> en nimi << sona ala >> kepeken ala nimi << pi >>.***  nimi << kepeken'ala >> li pona ala pona?pona!
+Priestofmemory
+
+sitelin_toki_anpa_lili (sitelin_toki_Untelin: << _ >>) li kama pona tawa mi. ni li ike_lili. ante li ike_mute.
+jan_sewemi sona e ni: kulupu nimi pi suli ike li ike lon toki pona.nasin toki sina li pona, la jan mute li ken sona e toki sina.nasin toki sina li ike, la jan ante ala li ken sona e ona. sina taso li ken sona e toki sina.
+
+
+
+
+
+
+
+[James Mitchell Jensen II 
+Greetings!  I am learning toki pona.  But I want to ask a question.
+
+In toki pona:
+I know that too close words (portmanteau, physical compounds) are not allowed.  But can you approximate compounds (Maybe noun plus adjective or verb plus adverb, but nothing with prepositions except at the beginning) using apostrophes like <<jan'pona'mi>>.  This thing does totally fix all the ills of bad language.  But I think that helps a little and does very little harm for people who don't know it.
+In toki pona using my changes:* I am an American but I like guillemets (not legit)
+** Notice that with this method, `jan' and `sona ala' don't use `pi' (first didn't need it, second still does)
+*** Is `kepeken ala' proper?  (yes)Thanks!
+Priestofmemory
+Underlines  (`Untelin' illegit) seem good to me.  This is little bad.  Others are very bad. 
+
+jan_seweI know that very long phrases are bad for toki pona.If your manner of talking is good, many people can understand what you say.
+If your manner of speaking is bad, nobody else can understand it.  Only you can understand you speech.]
+
+
+
+
+
+
+
+
+
+
+
+
+
